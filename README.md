@@ -74,8 +74,8 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Or4clee&show_icons=true&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Or4clee&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
