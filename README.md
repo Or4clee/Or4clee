@@ -1,4 +1,4 @@
-<img width="1920" height="2160" alt="image" src="https://github.com/user-attachments/assets/da9f45b7-ee35-40ba-b8ff-6a798185f6e8" /><h1 align="center">Hi, I'm Byan👋</h1>
+<h1 align="center">Hi, I'm Byan👋</h1>
 
 <p align="center">
   <b>Data Engineer · Database Analytics · Web Developer</b><br/>
