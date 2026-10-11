@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Byan👋</h1>
 
 <p align="center">
-  <b>Data Engineer · Database Analytics · Web Developer</b><br/>
-  Building reliable data pipelines and user-data-driven web applications.
+  <b>Data Enthusiast & Software Developer</b><br/>
 </p>
 
 <p align="center">
