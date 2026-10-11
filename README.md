@@ -39,7 +39,7 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 
 **Tools**
 
@@ -60,8 +60,6 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 ---
 
 ## 📌 Featured Projects
-
-> Replace the entries below with your own projects.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
