@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Byan👋</h1>
+<img width="1920" height="2160" alt="image" src="https://github.com/user-attachments/assets/da9f45b7-ee35-40ba-b8ff-6a798185f6e8" /><h1 align="center">Hi, I'm Byan👋</h1>
 
 <p align="center">
   <b>Data Engineer · Database Analytics · Web Developer</b><br/>
@@ -40,6 +40,7 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Tools**
 
@@ -65,9 +66,9 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Web Bem FHUnand**](https://github.com/dapadw/bemunand) | Short description of what it does and the problem it solves. | Next.js, PostgreSQL |
-| [**UBMentalCare**](https://github.com/nabathnm/UBMentalCare) | Short description of what it does and the problem it solves. | Flutter, PostgreSQL |
-| [**KeepUp!**](https://github.com/nabathnm/hologiw) | Short description of what it does and the problem it solves. | Flutter, PostgreSQL |
+| [**Web Bem FHUnand**](https://github.com/dapadw/bemunand) | Helping to introduce the BEM FH UNAND profile to the public  | Next.js, PostgreSQL |
+| [**UBMentalCare**](https://github.com/nabathnm/UBMentalCare) | Developing an Android-based app to manage the queue of students seeking mental health counseling  | Flutter, PostgreSQL |
+| [**KeepUp!**](https://github.com/nabathnm/hologiw) | Developing an Android-based app to help children with ADHD or dyslexia focus while reading | Flutter, PostgreSQL |
 
 ---
 
