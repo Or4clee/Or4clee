@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abbyan👋</h1>
+<h1 align="center">Hi, I'm Byan👋</h1>
 
 <p align="center">
   <b>Data Engineer · Database Analytics · Web Developer</b><br/>
@@ -17,7 +17,7 @@
 
 I specialize in **data engineering**, **database analytics**, and **application/web development** focused on **user data management**.
 
-I manage data pipelines and relational databases with **Python** and **PostgreSQL**, build object-oriented applications with **Java**, and develop interactive web systems using **Laravel (PHP)**, **React.js**, and **Next.js**. My projects are integrated end to end, with an emphasis on **query accuracy** and **resource efficiency**.
+I manage data pipelines and relational databases with **Python** and **PostgreSQL**, build object-oriented applications with **Flutter**, and develop interactive web systems using **Laravel (PHP)**, **React.js**, and **Next.js**. My projects are integrated end to end, with an emphasis on **query accuracy** and **resource efficiency**.
 
 ---
 
@@ -55,7 +55,7 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 | **Data Engineering** | Design and maintain data pipelines using Python and PostgreSQL |
 | **Database Analytics** | Write accurate, efficient queries for analysis and reporting |
 | **Web Development** | Build interactive systems with Laravel, React.js, and Next.js |
-| **Application Development** | Develop object-oriented applications with Java |
+| **Application Development** | Develop object-oriented applications with Flutter |
 
 ---
 
@@ -65,9 +65,9 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Project Name**](https://github.com/username/repo) | Short description of what it does and the problem it solves. | Python, PostgreSQL |
-| [**Project Name**](https://github.com/username/repo) | Short description of what it does and the problem it solves. | Laravel, PostgreSQL |
-| [**Project Name**](https://github.com/username/repo) | Short description of what it does and the problem it solves. | Next.js, React.js |
+| [**Web Bem FHUnand**](https://github.com/dapadw/bemunand) | Short description of what it does and the problem it solves. | Next.js, PostgreSQL |
+| [**UBMentalCare**](https://github.com/nabathnm/UBMentalCare) | Short description of what it does and the problem it solves. | Flutter, PostgreSQL |
+| [**KeepUp!**](https://github.com/nabathnm/hologiw) | Short description of what it does and the problem it solves. | Flutter, PostgreSQL |
 
 ---
 
@@ -83,7 +83,7 @@ I manage data pipelines and relational databases with **Python** and **PostgreSQ
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abbyan-ezra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.abbyanezra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
